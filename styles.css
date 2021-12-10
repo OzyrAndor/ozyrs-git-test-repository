@@ -12,6 +12,21 @@ button {
 	color: white;
 }
 
+.showable {
+	height: 50px;
+	width: 50%;
+	margin: auto;
+}
+
+#showable1 {
+	background-color: yellow;
+	display: none;
+}
+
+#showable2 {
+	background-color: #23a6d5;
+}
+
 /* STATE */
 
 /* THEME */
